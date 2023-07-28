@@ -1,0 +1,124 @@
+	$parent_name = "r–x’¼q";
+	$user_mail = "kidowak@gmail.com";
+
+	$parent_name = "“¡ˆä —zq";
+	$user_mail = "aya307yoyo405@gmail.com";
+
+	$parent_name = "ˆî”ö@“Ş";
+	$user_mail = "inaonao252019@gmail.com";
+
+	$parent_name = "’JŒûˆê•F";
+	$user_mail = "ranankan@gmail.com";
+
+	$parent_name = "“c‘º@X‘¾˜Y";
+	$user_mail = "masamitmr@gmail.com";
+
+	$parent_name = "¼”öƒˆê";
+	$user_mail = "kuu.hina03@gmail.com";
+
+	$parent_name = "¼‘º‚u";
+	$user_mail = "yuhkn1116@gmail.com";
+
+	$parent_name = "’·”ö—T‰Â";
+	$user_mail = "yuka.smile.580112@gmail.com";
+
+	$parent_name = "Š™“c@—¢]";
+	$user_mail = "rioriokoukou@gmail.com";
+
+	$parent_name = "Šâ“c@Œb”ü";
+	$user_mail = "sho.kei.emi0412@gmail.com";
+
+	$parent_name = "Oã@Œ›q";
+	$user_mail = "pokopoko5883@gmail.com";
+
+	$parent_name = "Šâ“c‹¾q";
+	$user_mail = "sora.smile6@gmail.com";
+
+	$parent_name = "R’†—mˆê";
+	$user_mail = "youichihiroko@gmail.com";
+
+	$parent_name = "¼–{‰Àq";
+	$user_mail = "y0sh1k081519@gmail.com";
+
+	$parent_name = "—˜ªì—R‰À";
+	$user_mail = "stepbystepyuka1984@gmail.com";
+
+	$parent_name = "LIAO YUKAI";
+	$user_mail = "egaode.latatata@gmail.com";
+
+	$parent_name = "X–ì@‚¹‚¢q";
+	$user_mail = "rms19840502@gmail.com";
+
+	$parent_name = "•½“‡@–€‹I";
+	$user_mail = "et20070303@gmail.com";
+
+	$parent_name = "¡ˆä@—Dq";
+	$user_mail = "hyuikoro@gmail.com";
+
+	$parent_name = "’|’†@Œúq";
+	$user_mail = "atsuko0114take@gmail.com";
+
+	$parent_name = "ìŒûÊq";
+	$user_mail = "hippopotamus57ayako@gmail.com";
+
+	$parent_name = "¼Œû‹B";
+	$user_mail = "takenishi1003@gmail.com";
+
+	$parent_name = "‹àè—˜‰Àq";
+	$user_mail = "sakuralove0420@gmail.com";
+
+	$parent_name = "–ì‘ºk•½";
+	$user_mail = "tn.c7pommec5@gmail.com";
+
+	$parent_name = "¼‰YNq";
+	$user_mail = "yasukomatz@gmail.com";
+
+	$parent_name = "{”V“à@Œ[“¹";
+	$user_mail = "si193.0922@gmail.com";
+
+	$parent_name = "Î“cLq";
+	$user_mail = "nobuko466132@gmail.com";
+
+	$parent_name = "—é–Ø@“Tq";
+	$user_mail = "suzuki.noriko.keitai@gmail.com";
+
+	$parent_name = "•—W“ŞX";
+	$user_mail = "nananobu0405@gmail.com";
+
+	$parent_name = "²“¡¹“Ş";
+	$user_mail = "aquettcandle.a@gmail.com";
+
+	$parent_name = "“¹–‹Iq";
+	$user_mail = "doman.noriko@gmail.com";
+
+	$parent_name = "X“c@–­”ü";
+	$user_mail = "taemi.morita@gmail.com";
+
+	$parent_name = "’†@ˆÕq";
+	$user_mail = "yyy11250606@gmail.com";
+
+	$parent_name = "‘ºàV–õq";
+	$user_mail = "yaaako07191017@gmail.com";
+
+	$parent_name = "–Ø“c@—tq";
+	$user_mail = "youko1016824@gmail.com";
+
+	$parent_name = "’†àV@—L—¢‰Ø";
+	$user_mail = "lily347.420.1118@gmail.com";
+
+	$parent_name = "–Ø‘º—D";
+	$user_mail = "guyucci@gmail.com";
+
+	$parent_name = "£ŒÃ@—F—›Œb";
+	$user_mail = "yurie.komae@gmail.com";
+
+	$parent_name = "‘å‹´‰f—¢";
+	$user_mail = "eri1230.berry0514@gmail.com";
+
+	$parent_name = "‹àç@çŒb";
+	$user_mail = "koff.chie@gmail.com";
+
+	$parent_name = "ƒ~ƒ‰[‰ë‘ã";
+	$user_mail = "maca.chalkart@gmail.com";
+
+
